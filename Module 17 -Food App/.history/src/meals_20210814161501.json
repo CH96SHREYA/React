@@ -1,0 +1,29 @@
+
+[ "meals":{
+    {
+      "id": "m1",
+      "name": "Biryani",
+     "description": "Hyderabadi Dum",
+     "price": 250
+    },
+    {
+        "id": "m2",
+        "name": "Chole Bhaturey",
+       "description": "Punjabis in the house",
+       "price": 180
+    },
+    {
+        "id": "m3",
+        "name": "Sambhar Dosa",
+       "description": "South Indians in the house",
+       "price": 180
+      },
+      {
+        "id": "m4",
+        "name": "Litti Chokha",
+       "description": "Biharis in the house",
+       "price": 90
+      }
+}
+    ]
+
